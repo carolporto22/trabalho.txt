@@ -15,7 +15,11 @@ Oferece desempenho e controle direto sobre o hardware.
 Mais complexo e com curva de aprendizado mais íngreme, incluindo conceitos como ponteiros e gerenciamento manual de memória.
 
 a. Tente fazer um código mínimo em cada uma delas; 
-https://github.com/carolporto22/trabalho.txt/blob/main/print%20phyton.png
-https://github.com/carolporto22/trabalho.txt/blob/main/print%20java.png
-https://github.com/carolporto22/trabalho.txt/blob/main/print%20c%2B%2B.png
+#include <iostream>
+
+int main() {
+    std::cout << "oisouacarol" << std::endl;
+    return 0;
+}
+
 b. Tente executar o seu código; 
