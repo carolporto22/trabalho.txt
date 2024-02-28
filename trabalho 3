@@ -14,13 +14,26 @@ Combina elementos de linguagens de baixo e alto nível.
 Oferece desempenho e controle direto sobre o hardware.
 Mais complexo e com curva de aprendizado mais íngreme, incluindo conceitos como ponteiros e gerenciamento manual de memória.
 
-a. Tente fazer um código mínimo em cada uma delas; 
+a. Tente fazer um código mínimo em cada uma delas; b. Tente executar o seu código; 
+
+print('oisouacarol')
+
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+// The main method must be in a class named "Main".
+class Main {
+    public static void main(String[] args) {
+        System.out.println("carol");
+    }
+}
+
+
 #include <iostream>
 
 int main() {
-    std::cout << "oisouacarol" << std::endl;
+    std::cout << "oi" << std::endl;
     return 0;
 }
-
-b. Tente executar o seu código; 
 
