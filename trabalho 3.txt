@@ -18,6 +18,8 @@ a. Tente fazer um código mínimo em cada uma delas; b. Tente executar o seu có
 
 print('oisouacarol')
 
+https://github.com/carolporto22/trabalho.txt/blob/f4efb06d7d01553fbd442b1a1f04ba2550dcb62d/print%20phyton.png
+
 import java.util.*;
 import java.lang.*;
 import java.io.*;
@@ -29,6 +31,7 @@ class Main {
     }
 }
 
+https://github.com/carolporto22/trabalho.txt/blob/f4efb06d7d01553fbd442b1a1f04ba2550dcb62d/print%20java.png
 
 #include <iostream>
 
@@ -37,3 +40,4 @@ int main() {
     return 0;
 }
 
+https://github.com/carolporto22/trabalho.txt/blob/f4efb06d7d01553fbd442b1a1f04ba2550dcb62d/print%20c%2B%2B.png
