@@ -7,6 +7,8 @@ while contador < 5:
     print("O contador é:", contador)
     contador += 1
 
+https://github.com/carolporto22/trabalho.txt/blob/main/Captura%20de%20tela%202024-03-06%20082737.png
+
 uma estrutura de tomada de decisão:
 # Exemplo de estrutura de tomada de decisão usando if-else
 numero = 10
