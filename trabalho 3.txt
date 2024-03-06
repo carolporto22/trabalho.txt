@@ -1,7 +1,7 @@
 1 – Explique as diferenças entre 3 linguagens de programação: 
 Python:
 Sintaxe limpa e legível.
-Interpretada e dinâmica.
+Interpretada(não é linha por linha) e dinâmica.
 Ampla gama de aplicações, incluindo desenvolvimento web, científico e automação.
 
 Java: 
