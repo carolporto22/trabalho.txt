@@ -1,0 +1,17 @@
+1 - Utilizando a linguagem de programação Python, implemente um ou mais códigos de exemplo dos seguintes elementos: 
+
+uma estrutura de repetição:
+# Exemplo de estrutura de repetição usando um loop while
+contador = 0
+while contador < 5:
+    print("O contador é:", contador)
+    contador += 1
+
+uma estrutura de tomada de decisão:
+# Exemplo de estrutura de tomada de decisão usando if-else
+numero = 10
+
+if numero % 2 == 0:
+    print(numero, "é um número par.")
+else:
+    print(numero, "é um número ímpar.")
