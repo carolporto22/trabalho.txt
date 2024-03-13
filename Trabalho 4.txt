@@ -20,9 +20,7 @@ print(arr)
 
 https://github.com/carolporto22/trabalho.txt/blob/main/algoritmo%20de%20ordena%C3%A7%C3%A3o%20Bubble%20Sort.png
 
-2 – implemente um algorítmo que imprima apenas as vogais de uma
-determinada palavra ou frase.
-
+2 – implemente um algorítmo que imprima apenas as vogais de uma determinada palavra ou frase.
 def imprimir_vogais(frase):
     vogais = "aeiouAEIOU"
     vogais_na_frase = [letra for letra in frase if letra in vogais]
@@ -30,7 +28,6 @@ def imprimir_vogais(frase):
     print("Vogais na frase:", resultado)
 
 # Exemplo de uso:
-palavra_frase = "Olá, como você está?"
+palavra_frase = "oi me chamo carolina"
 imprimir_vogais(palavra_frase)
 
-https://github.com/carolporto22/trabalho.txt/blob/main/algoritmo%20-%20vogais.png
