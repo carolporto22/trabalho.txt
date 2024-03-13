@@ -23,6 +23,7 @@ https://github.com/carolporto22/trabalho.txt/blob/main/algoritmo%20de%20ordena%C
 2 – implemente um algorítmo que imprima apenas as vogais de uma determinada palavra ou frase.
 def imprimir_vogais(frase):
     vogais = "aeiouAEIOU"
+
     vogais_na_frase = [letra for letra in frase if letra in vogais]
     resultado = ''.join(vogais_na_frase)
     print("Vogais na frase:", resultado)
@@ -31,4 +32,4 @@ def imprimir_vogais(frase):
 palavra_frase = "oi me chamo carolina"
 imprimir_vogais(palavra_frase)
 
-https://github.com/carolporto22/trabalho.txt/blob/main/algoritmo%20-%20vogais.png
+https://github.com/carolporto22/trabalho.txt/blob/main/algoritmo%20-%20vogais%20minha%20frase.png
