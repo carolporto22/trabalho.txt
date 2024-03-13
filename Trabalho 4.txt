@@ -31,3 +31,4 @@ def imprimir_vogais(frase):
 palavra_frase = "oi me chamo carolina"
 imprimir_vogais(palavra_frase)
 
+https://github.com/carolporto22/trabalho.txt/blob/main/algoritmo%20-%20vogais.png
