@@ -18,7 +18,7 @@ bubble_sort(arr)
 print("Array ordenado:")
 print(arr)
 
-https://www.mycompiler.io/pt/new/python
+
 
 2 – implemente um algorítmo que imprima apenas as vogais de uma
 determinada palavra ou frase.
@@ -33,4 +33,4 @@ def imprimir_vogais(frase):
 palavra_frase = "Olá, como você está?"
 imprimir_vogais(palavra_frase)
 
-https://www.mycompiler.io/pt/new/python
+
