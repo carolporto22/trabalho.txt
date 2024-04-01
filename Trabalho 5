@@ -48,9 +48,9 @@ if _name_ == "_main_":
     print("Média:", media)
 
     # Testando função substituir_palavra
-    lista_palavras = ["carol", "mari", "bella", "luana"]
-    palavra_antiga = "fluzão"
-    palavra_nova = "vasco"
+    lista_palavras = ["carol", "mari", "bella", "carol"]
+    palavra_antiga = "carol"
+    palavra_nova = "luana"
     nova_lista = substituir_palavra(lista_palavras, palavra_antiga, palavra_nova)
     print("Lista alterada:", nova_lista)
 
